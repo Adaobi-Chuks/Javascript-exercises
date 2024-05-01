@@ -29,5 +29,5 @@ x += 3; // Equivalent to x = x + 3 (x becomes 8)
 
 // Write expressions using arithmetic operators to calculate the area of a rectangle and the volume of a cube.
 // Compare two numbers using different comparison operators and print the results.
-// Combine logical operators to create conditional statements that check if a number is even or odd.
+// Combine logical operators to create conditional statements that check if a number is even or odd. //use control flow instead
 // Experiment with increment and decrement operators to modify variable values.

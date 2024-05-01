@@ -22,7 +22,9 @@ for (let i = 0; i < fruits.length; i++) {
 // Higher-order functions
 // Array methods (forEach, map, filter)
 fruits.forEach(fruit => console.log(fruit)); // Loop through each element
-const doubledNumbers = numbers.map(number => number * 2); // Create a new array with doubled values
+
+let sum = 0;
+const doubledNumbers = numbers.map(number => sum +=number); // Create a new array with doubled values
 const evenNumbers = numbers.filter(number => number % 2 === 0); // Create a new array with even numbers
 console.log(evenNumbers)
 

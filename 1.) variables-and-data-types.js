@@ -16,6 +16,8 @@ const person = { // Object
 };
 const fruits = ["apple", "banana", "orange"]; // Array
 
+
+
 //ASSIGNMENTS
 
 // Create variables to store your name, age, and favorite color. Use let and const appropriately.
